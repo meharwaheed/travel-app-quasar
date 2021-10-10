@@ -1,6 +1,12 @@
-# Quasar App (new_quasar)
+# Quasar App
 
 A Quasar Framework app
+
+## Update ENV
+update env file
+
+## Install quasar CLI
+npm install -g @quasar/cli
 
 ## Install the dependencies
 ```bash
